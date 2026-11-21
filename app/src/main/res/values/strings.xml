@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Smart StudyPoint</string>
+    <string name="app_tagline">Your Smart Partner in Exam Preparation.</string>
+    <string name="app_footer">© Smart StudyPoint</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_studio">AI Studio</string>
+    <string name="nav_quiz_chat">Quiz &amp; AI</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_admin">Admin</string>
+
+    <string name="ai_sample_notice">Sample AI Preview: Live Gemini generation requires Firebase AI Logic.</string>
+    <string name="search_placeholder">Search notes, topics, exams, or PYQs...</string>
+    <string name="error_empty_topic">Please enter a chapter or topic name to generate study material.</string>
+    <string name="error_empty_fields">Please complete all required fields before continuing.</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_pdf">PDF</string>
+    <string name="action_listen">Listen</string>
+    <string name="action_stop_listen">Stop</string>
+    <string name="action_save">Save</string>
+    <string name="action_saved">Saved</string>
+    <string name="action_favourite">Favourite</string>
+
+    <string name="cd_app_logo">Smart StudyPoint open book and AI emblem logo</string>
+    <string name="cd_hero_banner">Smart StudyPoint exam preparation illustration</string>
+    <string name="cd_toggle_theme">Toggle dark mode</string>
+    <string name="cd_open_admin">Open admin dashboard</string>
+    <string name="cd_open_progress">Open student progress analytics</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_clear_search">Clear search query</string>
+
+    <string name="student_progress_title">Student Progress</string>
+    <string name="student_progress_subtitle">Quiz trends, notes activity &amp; study streaks</string>
+    <string name="flashcards_title">Flashcards</string>
+    <string name="flashcards_subtitle">Create decks &amp; master concepts with active recall</string>
+    <string name="cd_flip_flashcard">Flip flashcard to toggle term and definition</string>
+</resources>

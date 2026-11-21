@@ -1,0 +1,6 @@
+{
+  "name": "Smart StudyPoint",
+  "description": "AI-powered educational app for Indian school and competitive exam preparation with AI Notes, MCQ Generator, Q&A Generator, Study Chatbot, Daily GK Quiz, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
